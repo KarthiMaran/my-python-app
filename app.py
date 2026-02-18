@@ -6,7 +6,7 @@ def main():
     print("Hello, Karthi! This script is running from a feature branch.")
     
     # You can add more logic here later to test merging
-    user_status = "Learning Git"
+    user_status = "Learning how to use Git and GitHub"
     print(f"Current Status: {user_status}")
 
 if __name__ == "__main__":

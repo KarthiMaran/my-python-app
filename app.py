@@ -9,8 +9,6 @@ def main():
 
     user_status = "Learning Git and GitHub"
 
-    user_status = "Learning how to use Git"
-
     print(f"Current Status: {user_status}")
 
 if __name__ == "__main__":
